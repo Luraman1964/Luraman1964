@@ -9,4 +9,5 @@ Luraman1964/Luraman1964 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 Hola  esta es una prueba
+Estoy estuduando Ingenieria de Software
 
